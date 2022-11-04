@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575986208 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\client.c
+	"treePublic.h"
+
+1575986208 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\treepublic.h
+	"dataInt.h"
+
+1575889110 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\dataint.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575890433 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\dataint.c
+	"dataInt.h"
+
+1575890389 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\tree.c
+	"treePrivate.h"
+
+1575905455 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\treeprivate.h
+	"treePublic.h"
+
+1575983953 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex3\treeaddition.c
+	"treePrivate.h"
+

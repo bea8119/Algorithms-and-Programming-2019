@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572789771 source:c:\users\beatr\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 5\lab5_ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

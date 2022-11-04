@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1578580175 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\item.c
+	"item.h"
+	"treePrivate.h"
+
+1578584380 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1578579279 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\st.c
+	"item.h"
+	"st.h"
+
+1578579530 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\st.h
+
+1578579592 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\main.c
+	"item.h"
+	"st.h"
+	"treePublic.h"
+
+1578583258 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\treepublic.h
+	"data.h"
+
+1578584366 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1578584253 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\tree.c
+	"treePrivate.h"
+	"data.h"
+
+1578584528 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\treeprivate.h
+	"treePublic.h"
+
+1578579143 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 11\lab11_ex1\data.c
+	"data.h"
+	"treePrivate.h"
+

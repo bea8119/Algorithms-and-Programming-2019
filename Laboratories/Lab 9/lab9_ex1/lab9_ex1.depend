@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575567562 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex1\main.c
+	"h1.h"
+
+1575646629 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex1\functions.c
+	"h1.h"
+
+1575655166 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex1\h1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

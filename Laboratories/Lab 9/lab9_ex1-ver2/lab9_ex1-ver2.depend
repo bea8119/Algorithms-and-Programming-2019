@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575656181 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex1-ver2\functions2.c
+	"h2.h"
+
+1575655937 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex1-ver2\h2.h
+	<stdio.h>
+	<stdlib.h>
+
+1575655620 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex1-ver2\main.c
+	"h2.h"
+

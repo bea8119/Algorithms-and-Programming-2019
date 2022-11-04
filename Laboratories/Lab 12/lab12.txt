@@ -1,0 +1,126 @@
+Algorithms and Programming
+Laboratory number 12
+--------------------
+
+
+
+Exercise 01
+-----------
+
+Use the graph library included in
+lab11-GraphLibrary
+to solve the Hamilton's path or the Traveling Salesman Problem
+(TSP).
+
+Definition of an Hamilton's path:
+Given an undirected graph G =(V, E) and two of its nodes v and w,
+an Hamilton's path, it is exists, is a simple path that connects v and
+w and visits each node of the graph once and just once.
+If v coincides with w, the Hamilton's path is a cycle (Hamilton's cycle).
+
+Write a function that:
+- Receives an undirected and unweighted graph, and the identifiers
+  of one vertex of the graph
+- It computes and prints-out an Hamilton's cycle (if it exists).
+
+Example.
+Given the graph
+
+A ----- B
+|       |
+|       |
+|       |
+C ----- D
+
+If we start from A a Hamilton's cycle is A, B, C, D.
+
+
+
+Exercise 02
+-----------
+
+Use the graph library included in
+lab11-GraphLibrary
+to solve the Euler's path problem
+
+Definition of an Euler's path:
+Given an undirected graph G =(V, E) and two of its nodes v and w,
+an Euler's path is a path, if it exists (may be non simple), that
+connects u and v and crosses each edge once and only once.
+If v coincides with w, the Euler's path is a cycle (Euler's cycle).
+
+Write a function that:
+- Receives an undirected and unweighted graph, and the identifiers
+  of one vertex of the graph
+- It computes and prints-out an Euler's cycle (if it exists).
+
+Example.
+Given the graph
+
+A ----- B
+|       |
+|       |
+|       |
+C ----- D
+
+If we start from A a Euler's cycle is A, B, C, D, A.
+
+
+
+Exercise 03
+-----------
+
+Use the graph library included in
+lab11-GraphLibrary
+to solve the following problem.
+
+Suppose to use the library to read an undirected, unweighted
+and connected graph.
+
+Write a function able to delete the minimum number of edges such
+that the resulting graph is no more connected.
+
+Example.
+Given the graph
+
+A ----- B
+|       |
+|       |
+|       |
+C ----- D
+
+if we just erase one edge the graph remain connected, whereas
+if we erase edges:
+- AB and BD
+- AB and CD
+- ...
+the graph become unconnected.
+
+
+
+Exercise 04
+-----------
+
+Use the graph library included in
+lab11-GraphLibrary
+to solve the same problem analyzed in Exercise 03, but the two
+unconnected component have to include a number of vertices that
+differ at most by 1.
+
+Example.
+Given the graph
+
+A ----- B
+|       |
+|       |
+|       |
+C ----- D
+
+if we erase edges
+AB and BD
+we have one connected component of 1 node (B) and one of 3 nodes (A, C, and D).
+
+On the contrary, if we erase edges
+AB and CD
+we have two connected component of exactly 2 nodes.
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1576187200 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 10\lab10_ex1\datastr.c
+	"dataStr.h"
+	"treePrivate.h"
+
+1576187110 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 10\lab10_ex1\datastr.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1576187322 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 10\lab10_ex1\client.c
+	"treePublic.h"
+
+1576187110 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 10\lab10_ex1\treepublic.h
+	"dataStr.h"
+
+1576187162 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 10\lab10_ex1\tree.c
+	"treePrivate.h"
+
+1578165882 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 10\lab10_ex1\treeprivate.h
+	"treePublic.h"
+

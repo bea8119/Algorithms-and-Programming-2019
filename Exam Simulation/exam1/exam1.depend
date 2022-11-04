@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1577723376 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\exam simulation\exam1\functions.c
+	"struct_private.h"
+
+1577723420 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\exam simulation\exam1\struct_private.h
+	"functions.h"
+
+1577725232 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\exam simulation\exam1\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577742018 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\exam simulation\exam1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

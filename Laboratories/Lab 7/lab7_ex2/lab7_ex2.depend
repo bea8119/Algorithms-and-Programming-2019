@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574437710 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 7\lab7_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

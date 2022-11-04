@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578158007 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\exam simulation\exam3\main.c
+	"ausiliary.h"
+
+1578158017 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\exam simulation\exam3\ausiliary.h
+	<stdio.h>
+	<stdlib.h>
+

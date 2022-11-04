@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1579101945 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\graph.c
+	"graph.h"
+
+1579096317 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\graph.h
+	"limits.h"
+	"util.h"
+
+1579096520 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579183430 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\main.c
+	<stdio.h>
+	"queuePublic.h"
+	"graph.h"
+
+1579096432 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\queuepublic.h
+	<stdio.h>
+
+1579096382 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1579096443 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1579096509 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\util.c
+	"util.h"
+
+1579108947 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 12\lab12_ex1\added.c
+	"graph.h"
+	"queuePublic.h"
+

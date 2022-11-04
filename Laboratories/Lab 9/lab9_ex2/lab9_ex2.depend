@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1575657971 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\item.c
+	"item.h"
+
+1575657924 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\item.h
+	<stdio.h>
+	"util.h"
+
+1575658021 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575658268 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\stack.c
+	"stackPrivate.h"
+
+1575658331 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\stackprivate.h
+	<stdio.h>
+	"stackPublic.h"
+	"util.h"
+
+1575673739 c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\stackpublic.h
+	<stdio.h>
+
+1575658331 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\util.c
+	"util.h"
+
+1575673660 source:c:\users\hp\onedrive\uni\secondo anno\algorithms and programming\laboratori\lab 9\lab9_ex2\client.c
+	<stdio.h>
+	<ctype.h>
+	"stackPublic.h"
+	"item.h"
+

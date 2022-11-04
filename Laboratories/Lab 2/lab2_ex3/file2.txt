@@ -1,0 +1,7 @@
+Regression file.
+check
+This file is to checkthe program.
+check
+In the previous line we should have a substitution (checkITHcheck).
+check
+Here we should not have it: t-e-s-t.check
